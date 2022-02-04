@@ -4,7 +4,6 @@ end
 
 x = ["tan", "caterpillar", "apple", "beaver"]
 p deleteOccurencesOfK(x,"apple")
-p x
+
 y = ["tan", "caterpillar", "apple", "beaver"]
-p deleteOccurencesOfK(x,"cat")
-p y
+p deleteOccurencesOfK(y,"cat")
